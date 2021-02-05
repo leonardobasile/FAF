@@ -1,4 +1,6 @@
+jupyter
+matplotlib
 numpy
 pandas
 quandl
-matplotlib.pyplot
+scipy
